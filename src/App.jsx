@@ -6,6 +6,11 @@ import { useState } from 'react'
 
 function App() {
   const[bookmarks,setBookmarks]=useState([])
+  const[readingTime,setReadingTime]=useState(0)
+
+  const handleMarkAsRead=(time)=>{
+    setReadingTime(readingTime+time)
+  }
 
   const handleBookmark=(blog)=>{
     console.log(blog)
@@ -19,8 +24,8 @@ function App() {
       
      <Header></Header>
      <div className='md:flex'>
-     <Blogs handleBookmark={handleBookmark}></Blogs>
-     <Bookmarks bookmarks={bookmarks}></Bookmarks>
+     <Blogs handleBookmark={handleBookmark} handleMarkAsRead={handleMarkAsRead}></Blogs>
+     <Bookmarks bookmarks={bookmarks} readingTime={readingTime}></Bookmarks>
      </div>
       
         
