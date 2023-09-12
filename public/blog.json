@@ -1,0 +1,49 @@
+[
+    {
+      "id": 1,
+      "title": "The Adventure of a Lifetime",
+      "author_img": "https://i.ibb.co/9Gg3rkC/836.jpg",
+      "cover": "https://i.ibb.co/XCMQzh6/berries-sponge-cake.jpg",
+      "post_date": "2023-09-12",
+      "reading_time": 10,
+      "hashtag": ["adventure", "travel"]
+     
+    },
+    {
+      "id": 2,
+      "title": "Cooking Delights: Recipes from Around the World",
+      "author_img": "https://i.ibb.co/Xp8rH2F/827.jpg",
+      "cover": "https://i.ibb.co/2hVPM2H/waitress-holding-berries-sponge-cake.jpg",
+      "post_date": "2023-09-11",
+      "reading_time": 15,
+      "hashtag": ["cooking", "recipes"]
+    },
+    {
+      "id": 3,
+      "title": "Tech Trends: A Glimpse into the Future",
+      "author_img": "https://i.ibb.co/hDLgCSx/2200-3-05.jpg",
+      "cover": "https://i.ibb.co/DCMpPvw/high-angle-doctor-holding-rainbow-colored-pills-foil.jpg",
+      "post_date": "2023-09-10",
+      "reading_time": 8,
+      "hashtag": ["technology", "innovation"]
+    },
+    {
+      "id": 4,
+      "title": "Health and Wellness: Achieving Balance in Life",
+      "author_img": "https://i.ibb.co/gtqYFD1/FASHION-GLASS-LOOK-INSTAGRAM-TEMPLATE.jpg",
+      "cover": "https://i.ibb.co/brpBN9y/hand-taking-colorful-macaron.jpg",
+      "post_date": "2023-09-09",
+      "reading_time": 12,
+      "hashtag": ["health", "wellness"]
+    },
+    {
+      "id": 5,
+      "title": "Exploring the Universe: Beyond the Stars",
+      "author_img": "https://i.ibb.co/T0PHvvf/60111.jpg",
+      "cover": "https://i.ibb.co/ypPV0t9/top-view-food-banquet.jpg",
+      "post_date": "2023-09-08",
+      "reading_time": 20,
+      "hashtag": ["space", "astronomy"]
+    }
+  ]
+  
